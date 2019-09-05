@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"http-client/config"
-	"http-client/http"
+	"http-post-request/config"
+	"http-post-request/http"
 	"log"
 )
 

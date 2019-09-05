@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"github.com/golang/protobuf/proto"
 	"golang.org/x/sync/errgroup"
-	"http-client/config"
+	"http-post-request/config"
 	"io/ioutil"
 	"log"
 	chnnproto "morse/http-gateway/grpc/proto"
